@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# QuickConvert
 =======
 # QuickConvert
 sebuah aplikasi web experimental untuk melakukan konversi satuan unit berat, panjang, dan suhu
