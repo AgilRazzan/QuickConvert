@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# QuickConvert
 =======
 # QuickConvert
 sebuah aplikasi web experimental untuk melakukan konversi satuan unit berat, panjang, dan suhu
@@ -20,9 +18,10 @@ sebuah aplikasi web experimental untuk melakukan konversi satuan unit berat, pan
  # Struktur Folder
 
  /ASESSMENT1LAB
-    /img
-    /src
-        - index.html
-        - script.js
+ index.html
+ script.js
+     /img
+    
+    
 >>>>>>> b97e723 (perdana)
 # QuickConvert
